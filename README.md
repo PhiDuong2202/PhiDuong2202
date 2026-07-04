@@ -49,15 +49,14 @@ I'm a passionate **Fullstack Developer** from Vietnam, currently focusing on bui
 ---
 ## 🌟 Featured Project
 ### 🍎 Restaurant Management System
-A full-stack restaurant management web application built with **React, Laravel, PostgreSQL**.
- 🔗 Repository: https://github.com/PhiDuong2202/res-manager-npd
+* A full-stack restaurant management web application built with **React, Laravel, PostgreSQL**.
+* 🔗 Repository: https://github.com/PhiDuong2202/res-manager-npd
 
 ---
 ## 📫 Contact Me
 
 * 📧 Email: npd22022004@gmail.com
 * 🐙 GitHub: https://github.com/PhiDuong2202
-* 
 
 ---
 
