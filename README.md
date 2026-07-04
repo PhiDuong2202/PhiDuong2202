@@ -51,6 +51,7 @@ I'm a passionate **Fullstack Developer** from Vietnam, currently focusing on bui
 ### 🍎 Restaurant Management System
 * A full-stack restaurant management web application built with **React, Laravel, PostgreSQL**.
 * 🔗 Repository: https://github.com/PhiDuong2202/res-manager-npd
+* 🌐 **Live Demo:** https://foodholicres.vercel.app/
 
 ---
 ## 📫 Contact Me
