@@ -52,10 +52,12 @@ I'm a passionate **Fullstack Developer** from Vietnam, currently focusing on bui
 * A full-stack restaurant management web application built with **React, Laravel, PostgreSQL**.
 * 🔗 Repository: https://github.com/PhiDuong2202/res-manager-npd
 * 🌐 **Live Demo:** https://foodholicres.vercel.app/
-* | Role | Username | Password |Site|
-|------|----------|----------|----------------|
-| Admin | admin@admin.com | 123456 | https://foodholicres.vercel.app/admin |
-| User | staff@admin.com | 123456 | https://foodholicres.vercel.app/staff |
+### 🔑 Demo Account
+
+| Role | Username | Password | Demo |
+|------|----------|----------|------|
+| Admin | admin@admin.com | 123456 | [Admin](https://foodholicres.vercel.app/admin) |
+| Staff | staff@admin.com | 123456 | [Staff](https://foodholicres.vercel.app/staff) |
 
 ---
 ## 📫 Contact Me
