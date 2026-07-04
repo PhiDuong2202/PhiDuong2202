@@ -46,6 +46,11 @@ I'm a passionate **Fullstack Developer** from Vietnam, currently focusing on bui
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
+---
+## 🌟 Featured Project
+### 🍎 Restaurant Management System
+A full-stack restaurant management web application built with **React, Laravel, PostgreSQL**.
+🔗 Repository: https://github.com/PhiDuong2202/res-manager-npd
 
 ---
 ## 📫 Contact Me
