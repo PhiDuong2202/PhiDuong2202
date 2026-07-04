@@ -18,18 +18,18 @@ I'm a passionate **Fullstack Developer** from Vietnam, currently focusing on bui
 
 ### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗄️ Database
 
@@ -47,79 +47,11 @@ I'm a passionate **Fullstack Developer** from Vietnam, currently focusing on bui
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
-
-## 📂 Featured Projects
-
-### 🍎 Fruitables E-Commerce Website
-
-An online fruit store developed using ASP.NET Core MVC.
-
-**Features**
-
-* User Authentication & Authorization
-* Product Management
-* Shopping Cart
-* Order Management
-* VNPay Payment Integration
-* Admin Dashboard
-
-**Technologies**
-
-* ASP.NET Core MVC
-* Entity Framework Core
-* SQL Server
-* Bootstrap
-
----
-
-### 📚 Library Management System
-
-A desktop application for managing books, readers, and borrowing records.
-
-**Technologies**
-
-* Java
-* Swing
-* JDBC
-* MySQL
-
----
-
-### 👨‍🎓 Student Management System
-
-A web application for managing students and courses.
-
-**Technologies**
-
-* Java Servlet
-* JSP
-* JDBC
-* MVC Architecture
-
----
-
-## 📈 Currently Learning
-
-* React
-* Docker
-* Clean Architecture
-* Microservices
-* Azure
-
----
-
-## 🎯 Career Goals
-
-My goal is to become a professional Backend Developer specializing in the .NET ecosystem. I'm continuously improving my programming skills, software architecture knowledge, and problem-solving abilities.
-
----
-
 ## 📫 Contact Me
 
-* 📧 Email: [your_email@example.com](mailto:your_email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🌐 Portfolio: https://your-portfolio.com
-* 🐙 GitHub: https://github.com/your-username
+* 📧 Email: npd22022004@gmail.com
+* 🐙 GitHub: https://github.com/PhiDuong2202
+* 
 
 ---
 
