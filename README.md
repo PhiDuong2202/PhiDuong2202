@@ -9,7 +9,6 @@ I'm a passionate **Fullstack Developer** from Vietnam, currently focusing on bui
 * 🎓 Information Technology Student
 * 💼 Interested in fullstack Development
 * 🌱 Currently learning **ASP.NET Core, React, Laravel, Docker, and Clean Architecture**
-* 🔍 Looking for an Fresher as a .NET Developer
 * ⚡ I enjoy learning new technologies and solving real-world problems.
 
 ---
